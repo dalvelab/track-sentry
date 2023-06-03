@@ -1,0 +1,8 @@
+{
+  "services": [
+    {
+      "name": "theatrum-client",
+      "url": "http://185.211.170.236:3000/api/healthcheck"
+    }
+  ]
+}
